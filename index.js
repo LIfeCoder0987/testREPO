@@ -1,1 +1,5 @@
-console.log('Hello GIT!');
+if (user == "git user" && website == "github") {
+
+    console.log('Hello GIT!');
+
+}
